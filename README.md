@@ -145,6 +145,10 @@ Database entities and relationships.
 ![WhatsApp Image 2025-04-15 at 05 11 46_c555655d](https://github.com/user-attachments/assets/bca2171b-8b59-4ca6-89b2-33e35a973aeb)  
 ![WhatsApp Image 2025-04-15 at 05 12 06_f1c19558](https://github.com/user-attachments/assets/06d26e6a-d423-4df2-9a37-41cdded8327f)  
 ![image](https://github.com/user-attachments/assets/474276e2-9951-4783-b6cc-11fd771022c2)  
+![image](https://github.com/user-attachments/assets/937dbb32-102a-471f-86a9-80ff73adf2ee)  
+![image](https://github.com/user-attachments/assets/ccdd1505-969e-4646-a9d5-3b98a196b5ef)
+
+
 
 
 
