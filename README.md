@@ -32,8 +32,9 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 - Track payments and outstanding balances  
 
 ### 📄 Medical Records
-- Create, view, update and audit medical records  
-  
+- Create, view, update and audit medical records
+
+---
 ## 🛠️ Tools & Technologies
 - **.NET 9 & C# 13.0**  
 - **Entity Framework Core** (ORM)  
