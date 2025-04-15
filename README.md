@@ -144,5 +144,11 @@ Database entities and relationships.
 
 
 ## 📸 Screenshots
+![WhatsApp Image 2025-04-15 at 05 11 13_35efe52b](https://github.com/user-attachments/assets/25b56edb-a357-41a9-848a-2b596a802ba8)  
+![WhatsApp Image 2025-04-15 at 05 11 46_c555655d](https://github.com/user-attachments/assets/bca2171b-8b59-4ca6-89b2-33e35a973aeb)  
+![WhatsApp Image 2025-04-15 at 05 12 06_f1c19558](https://github.com/user-attachments/assets/06d26e6a-d423-4df2-9a37-41cdded8327f)  
+
+
+
 
 
