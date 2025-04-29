@@ -46,7 +46,7 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 
 
 
-## 🧱 Project Structure
+## 📂 Project Structure
 ```
 HMS/
 ├── HMS.API                        → API controllers & Startup configuration
