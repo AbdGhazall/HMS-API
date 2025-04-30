@@ -49,7 +49,7 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 ## 📂 Project Structure
 ```
 HMS/
-├── HMS.API                        → API controllers & Startup configuration
+├── HMS.API                       → API controllers & Startup configuration
 ├── HMS.API.Services              → Business logic & validation services
 ├── HMS.DAL                       → Data access layer (DbContext, Repositories)
 ├── HMS.API.Abstraction           → Shared entities, interfaces, enums, exceptions
