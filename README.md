@@ -37,7 +37,7 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 ## 🛠️ Tools & Technologies
 - **.NET 9 & C# 13.0**  
 - **Entity Framework Core** (ORM)  
-- **Logging Framework**  
+- **Logging Framework** (log4net)
 - **JWT** for authentication  
 - **LINQ** for efficient database queries  
 - **Swagger** for API documentation  
