@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System (HMS)
 The **Hospital Management System (HMS)** is a comprehensive, modular application developed to enhance the efficiency of hospital operations through digital automation. Built using **.NET 9** and **C# 13.0**, the system provides secure, role-based access to manage users, roles, patients, doctors, appointments, billing and medical records through a modern, API-first architecture.
 
-
+---
 
 ## 🚀 Core Features
 
@@ -32,6 +32,8 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 ### 📄 Medical Records
 - Create, view, update and audit medical records
 
+---
+
 ## 🛠️ Tools & Technologies
 - **.NET 9 & C# 13.0**  
 - **Entity Framework Core** (ORM)  
@@ -42,7 +44,7 @@ The **Hospital Management System (HMS)** is a comprehensive, modular application
 - **Postman** for testing  
 - Visual Studio 2022  
 
-
+---
 
 ## 📂 Project Structure
 ```
@@ -55,7 +57,7 @@ HMS/
 ├── HMS.DAL.DataAccess.Utilities  → Reusable helpers and extensions
 ```
 
-
+---
 
 
 ## 🧩 Project Layers Overview
@@ -96,14 +98,14 @@ Database entities and relationships.
 ### 6. `HMS.DAL.DataAccess.Utilities`
 - Helper functions and extensions for data access operations  
 
-
+---
 
 ## 🛡️ Filters
 
 - **Authentication Filter**: Validates JWTs and secures endpoints  
 - **Base Filter**: Common logic for validation, authorization, and logging  
 
-
+---
 
 ## 🧾 Data Managers Overview
 
@@ -127,7 +129,7 @@ Database entities and relationships.
 ### 📌 MedicalRecordDataManager
 - `GetAllMedicalRecords`, `GetMedicalRecordById`, `CreateMedicalRecord`, `UpdateMedicalRecord`, `DeleteMedicalRecord`  
 
-
+---
 
 ## 👥 Role-Based Access Control (RBAC)
 
@@ -137,6 +139,7 @@ Database entities and relationships.
 | **Doctor** | Manage profile, view/update assigned patients, access medical records, and schedule appointments |
 | **Patient** | View/update profile, book appointments, view medical history and billing details |
 
+---
 
 ## 📸 Screenshots
 ![WhatsApp Image 2025-04-15 at 05 11 13_35efe52b](https://github.com/user-attachments/assets/25b56edb-a357-41a9-848a-2b596a802ba8)  
