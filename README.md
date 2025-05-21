@@ -1,6 +1,4 @@
 # 🏥 Hospital Management System (HMS)
-
-## 📘 Overview
 The **Hospital Management System (HMS)** is a comprehensive, modular application developed to enhance the efficiency of hospital operations through digital automation. Built using **.NET 9** and **C# 13.0**, the system provides secure, role-based access to manage users, roles, patients, doctors, appointments, billing and medical records through a modern, API-first architecture.
 
 
