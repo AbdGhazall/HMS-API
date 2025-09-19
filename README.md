@@ -1,35 +1,35 @@
-# 🏥 Hospital Management System (HMS)
+# Hospital Management System (HMS)
 The **Hospital Management System (HMS)** is a comprehensive, modular application developed to enhance the efficiency of hospital operations through digital automation. Built using **.NET 9** and **C# 13.0**, the system provides secure, role-based access to manage users, roles, patients, doctors, appointments, billing and medical records through a modern, API-first architecture.
 
 ---
 
 ## 🚀 Core Features
 
-### 🔐 Authentication & RBAC
+### Authentication & RBAC
 - Secure JWT-based login and registration  
 - Role-Based Access Control (RBAC) to enforce permissions based on user roles  
 
-### 🛡️ Validation & Error Handling
+### Validation & Error Handling
 - Strong input validation  
 - Centralized error handling using custom exceptions  
 
-### 👤 User Management
+### User Management
 - Full CRUD operations for user accounts  
 - Role assignment and access control  
 
-### 🧑‍⚕️ Patient & Doctor Management
+### Patient & Doctor Management
 - Manage patient profiles and medical histories  
 - Manage doctor information, specialties and availability  
 
-### 📅 Appointment Scheduling
+### Appointment Scheduling
 - Create, update, and cancel appointments  
 - Filter appointments by doctor, patient and date  
 
-### 💰 Billing System
+### Billing System
 - Generate and manage bills  
 - Track payments and outstanding balances  
 
-### 📄 Medical Records
+### Medical Records
 - Create, view, update and audit medical records
 
 ---
@@ -109,24 +109,24 @@ Database entities and relationships.
 
 ## 🧾 Data Managers Overview
 
-### 📌 UserDataManager
+### UserDataManager
 - `GetAllUsers`, `GetUserById`, `UpdateUser`, `DeleteUser`  ,
 `GetUserByEmail`, `GetUser` (for login), `RegisterNewUser`  
 
-### 📌 PatientDataManager
+### PatientDataManager
 - `GetAllPatients`, `GetPatientById`, `UpdatePatient`, `DeletePatient` , `GetPatientByEmail`, `RegisterNewPatient`  
 
-### 📌 DoctorDataManager
+### DoctorDataManager
 - `GetAllDoctors`, `GetDoctorById`, `UpdateDoctor`, `DeleteDoctor` ,  `GetDoctorByEmail`, `RegisterNewDoctor`  
 
-### 📌 AppointmentDataManager
+### AppointmentDataManager
 - `GetAllAppointments`, `GetAppointmentById`, `CreateAppointment`, `UpdateAppointment`, `DeleteAppointment`  
 - Filtering: by patient name/date, doctor name/date  
 
-### 📌 BillingDataManager
+### BillingDataManager
 - `GetAllBills`, `GetBillById`, `CreateBill`, `UpdateBill`, `DeleteBill`  
 
-### 📌 MedicalRecordDataManager
+### MedicalRecordDataManager
 - `GetAllMedicalRecords`, `GetMedicalRecordById`, `CreateMedicalRecord`, `UpdateMedicalRecord`, `DeleteMedicalRecord`  
 
 ---
